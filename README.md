@@ -13,3 +13,4 @@ This repository contains the implemenation of most commonly used Machine Learnin
 - K-Means Clustering
 - ADABoost
 - Linear Discriminant Analysis
+- Cosine similarity for Recommendation Systems
